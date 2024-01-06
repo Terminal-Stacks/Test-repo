@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-12-25 11:54:31 by Eclipse SUMO GUI Version 1.19.0
+-->
+
+<configuration>
+       <input>
+           <net-file value="sample1.net.xml"/>
+           <route-files value="sample1.trips.xml"/>
+</input>
+<time>
+      <begin value="0"/>
+      <end value="100"/>
+       <step-length value="0.4"/>
+
+</time>
+
+</configuration>
